@@ -30,7 +30,7 @@ View: [<a href="http://p4.aridwo.me">link</a>] 		Github: [link]</p></span>
    <p><strong>Why are you taking this course?   </strong></p>
    <p>I am taking this course to further my web programming and backend development skills. </p>
    <p><strong>What previous experience do you have with programming?</strong></p>
-   <p>My only prior experience with programming has been in the classroom -- I have completed the Harvard courses Introduction to Computer Science and Creative Explorations in Screen-Based and physical Computing.</p>
+   <p>My only prior experience with programming has been in the classroom – I have completed the Harvard courses Introduction to Computer Science and Creative Explorations in Screen-Based and physical Computing.</p>
 <p><strong>Are you working on a Mac, PC, or some other platform?</strong></p>
 <p>Mac.</p>
 <p><strong>Anything else we should know?</strong></p>
