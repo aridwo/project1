@@ -8,7 +8,7 @@
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(http://fonts.googleapis.com/css?family=Pacifico);
 p{font-family: 'Montserrat', sans-serif;}
-h2 {font-family: 'Pacifico', cursive;color:orange;)
+h2 {font-family: 'Pacifico', cursive;color:orange;font-size:30px;}
 a {text-decoration: none; color:orange;}
 
 
