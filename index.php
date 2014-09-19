@@ -24,7 +24,7 @@ View: [<a href="http://p2.aridwo.me">link</a>] Github: [link]</p>
 <p>Project 3 Title<br>
 View: [<a href="http://p3.aridwo.me">link</a>] 	Github: [link]</p>
 <p>Project 4 Title<br>
-View: [<a href="http://p4.aridwo.me">link</a>] 		Github: [link]</p></span><div style="padding:30px">
+View: [<a href="http://p4.aridwo.me">link</a>] 		Github: [link]</p></span><div style="padding:28px">
 <p><strong>In 2+ sentences describe who you are and what you do.</strong></p>
 <p>I am currently a Graduate Student in Information Technology, with a concentration in Digital media arts and instructional design at Harvard University's Extension School.   </p>
    <p><strong>Why are you taking this course?   </strong></p>
