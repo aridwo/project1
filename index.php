@@ -20,7 +20,7 @@ a {text-decoration: none; color:orange;}
    <h2>Arielle Dworkin    </h2>
    <p><img src="https://media.licdn.com/media/p/3/000/115/3f4/0054eb3.jpg" width="253" height="253" /></p>
    <p>Project 2 Title<br>
-View: [<a href="http://p2.aridwo.me">link</a>] Github: [link]</p>
+View: [<a href="http://p2.aridwo.me">link</a>] Github: [<a href="https://github.com/aridwo/project1/">link</a>]</p>
 <p>Project 3 Title<br>
 View: [<a href="http://p3.aridwo.me">link</a>] 	Github: [link]</p>
 <p>Project 4 Title<br>
@@ -36,4 +36,8 @@ View: [<a href="http://p4.aridwo.me">link</a>] 		Github: [link]</p></span>
 <p><strong>Anything else we should know?</strong></p>
 <p>When I'm not immersed in all things digital I enjoy traveling, running, the beach, photography, and my two daschunds. </p>
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 0780db0508d1dc0704cd3cb482b919966ec57b0d
