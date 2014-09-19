@@ -20,11 +20,11 @@ a {text-decoration: none; color:orange;}
    <h2>Arielle Dworkin    </h2>
    <p><img src="https://media.licdn.com/media/p/3/000/115/3f4/0054eb3.jpg" width="253" height="253" /></p>
    <p>Project 2 Title<br>
-View: [<a href="http://p2.aridwo.me">link</a>] Github: [<a href="https://github.com/aridwo/project1/">link</a>]</p>
+View: [<a href="http://p2.aridwo.me">link</a>] Github: [link]</p>
 <p>Project 3 Title<br>
 View: [<a href="http://p3.aridwo.me">link</a>] 	Github: [link]</p>
 <p>Project 4 Title<br>
-View: [<a href="http://p4.aridwo.me">link</a>] 		Github: [link]</p></span>
+View: [<a href="http://p4.aridwo.me">link</a>] 		Github: [link]</p></span><div style="padding:30px">
 <p><strong>In 2+ sentences describe who you are and what you do.</strong></p>
 <p>I am currently a Graduate Student in Information Technology, with a concentration in Digital media arts and instructional design at Harvard University's Extension School.   </p>
    <p><strong>Why are you taking this course?   </strong></p>
@@ -34,10 +34,6 @@ View: [<a href="http://p4.aridwo.me">link</a>] 		Github: [link]</p></span>
 <p><strong>Are you working on a Mac, PC, or some other platform?</strong></p>
 <p>Mac.</p>
 <p><strong>Anything else we should know?</strong></p>
-<p>When I'm not immersed in all things digital I enjoy traveling, running, the beach, photography, and my two daschunds. </p>
+<p>When I'm not immersed in all things digital I enjoy traveling, running, the beach, photography, and my two daschunds. </p></div>
 </body>
-<<<<<<< HEAD
-</html>
-=======
-</html>
->>>>>>> 0780db0508d1dc0704cd3cb482b919966ec57b0d
+
