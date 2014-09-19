@@ -22,7 +22,7 @@ a {text-decoration: none; color:orange;}
    <p>Project 2 Title<br>
 View: [<a href="http://p2.aridwo.me">link</a>] Github: [link]</p>
 <p>Project 3 Title<br>
-View: [<a href="http://p3.aridwo.me">link</a>] 		Github: [link]</p>
+View: [<a href="http://p3.aridwo.me">link</a>] 	Github: [link]</p>
 <p>Project 4 Title<br>
 View: [<a href="http://p4.aridwo.me">link</a>] 		Github: [link]</p></span>
 <p><strong>In 2+ sentences describe who you are and what you do.</strong></p>
