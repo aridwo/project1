@@ -19,8 +19,8 @@ a {text-decoration: none; color:orange;}
 <body><span style="text-align: center">
    <h2>Arielle Dworkin    </h2>
    <p><img src="https://media.licdn.com/media/p/3/000/115/3f4/0054eb3.jpg" width="253" height="253" /></p>
-   <p>Project 2 Title<br>
-View: [<a href="http://p2.aridwo.me">link</a>] Github: [link]</p>
+   <p>XKCD Password Generator<br>
+View: [<a href="http://p2.aridwo.me">link</a>] Github: [<a href="https://github.com/aridwo/project2" target="_blank">link</a>]</p>
 <p>Project 3 Title<br>
 View: [<a href="http://p3.aridwo.me">link</a>] 	Github: [link]</p>
 <p>Project 4 Title<br>
